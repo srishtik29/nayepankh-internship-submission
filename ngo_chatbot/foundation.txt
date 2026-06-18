@@ -1,17 +1,23 @@
 NayePankh Foundation
 
 About:
-NayePankh Foundation is one of India's largest student-led NGOs.
-It was founded during the COVID-19 pandemic to help communities in need.
+NayePankh Foundation is one of India's largest student-led NGOs. It was established during the COVID-19 pandemic with the aim of helping communities through education, social welfare, and youth-driven initiatives.
 
 Mission:
-To empower individuals through education, awareness, and social initiatives.
+To empower individuals through education, awareness, and community support.
+
+Vision:
+To create a society where every individual has access to opportunities and resources needed for growth and development.
 
 Programs:
 - Education Support
 - Food Distribution
 - Menstrual Hygiene Awareness
 - Clothing Drives
+- Community Welfare Initiatives
 
-Volunteer:
-Students can volunteer in education, social media, outreach, content creation, and event management.
+Volunteer Opportunities:
+Students can contribute through teaching, content creation, social media management, awareness campaigns, outreach programs, and event management.
+
+Website:
+https://nayepankh.com
